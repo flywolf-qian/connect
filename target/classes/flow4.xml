@@ -1,0 +1,16 @@
+
+<node>
+  <nodecode>WSSQ</nodecode>
+  <nodename>网上申请</nodename>
+  <version>1</version>
+  <sn>1</sn>
+  <operator>系统管理员</operator>
+  <operatorduty></operatorduty>
+  <deptcode>000177068</deptcode>
+  <handletime>2019-09-12 17:28:44</handletime>
+  <handlestate>9</handlestate>
+  <prenodecode></prenodecode>
+  <nextnodecode>SL</nextnodecode>
+  <handleadvice>同意</handleadvice>
+  <completeresultscode></completeresultscode>
+</node>

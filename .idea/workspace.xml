@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="970ec5c8-528c-4ea9-a726-3790ccb3aa60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/connect.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/controller/BeanToXml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/controller/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/model/bjnodeinfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/model/bjnodeinfo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/model/certificateinfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/model/certificateinfo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/model/filestreaminfo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/model/forminfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/model/forminfo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/model/materialinfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/model/materialinfo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/utils/BusinessXmlUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/utils/PdfBase64Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/utils/PictureBase64Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/utils/XmlMergeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/utils/XmlUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/utils/applicationinfoXmlUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/utils/asXml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/utils/bjnodeXmlUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/utils/certificateXmlUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/utils/fileStreamXmlUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/utils/formXmlUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/utils/materialXmlUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/utils/nodeXmlUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/utils/nodeXmlUtil1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/utils/nodeXmlUtil2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/utils/string2XmlUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/taiji/utils/xmlWrite2FileUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/root.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/connect.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/banjie1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/banjie2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/bj-node.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/bj0merge.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/bj0node.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/bjsuccess.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/controller/BeanToXml.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/controller/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/model/bjnodeinfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/model/bjnodeinfo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/model/certificateinfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/model/certificateinfo1$File_stream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/model/certificateinfo1$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/model/certificateinfo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/model/filestreaminfo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/model/forminfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/model/forminfo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/model/materialinfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/model/materialinfo1$File.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/model/materialinfo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/utils/BusinessXmlUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/utils/PdfBase64Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/utils/PictureBase64Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/utils/XmlMergeUtil$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/utils/XmlMergeUtil$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/utils/XmlMergeUtil$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/utils/XmlMergeUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/utils/XmlUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/utils/applicationinfoXmlUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/utils/asXml.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/utils/bjnodeXmlUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/utils/certificateXmlUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/utils/fileStreamXmlUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/utils/formXmlUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/utils/materialXmlUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/utils/nodeXmlUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/utils/nodeXmlUtil1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/utils/nodeXmlUtil2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/utils/string2XmlUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/taiji/utils/xmlWrite2FileUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/flow1_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/flow2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/flow3_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/flow4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/flow5_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/node_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/root.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/slsuccess.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/sqsuccess.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/controller/MainClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="261" column="25" selection-start-line="261" selection-start-column="25" selection-end-line="261" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/classes/bj0merge.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/classes/bj-node.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/utils/nodeXmlUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/utils/nodeXmlUtil2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="61" column="44" selection-start-line="61" selection-start-column="44" selection-end-line="61" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/utils/certificateXmlUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/utils/XmlMergeUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-98">
+              <caret line="91" column="13" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>=business.addElement</find>
+      <find>fileid</find>
+      <find>filepath</find>
+      <find>success</find>
+      <find>classpath</find>
+      <find>ywgsd</find>
+      <find>System.out.print</find>
+      <find>materialinfo1</find>
+      <find>forminfo</find>
+      <find>parse</find>
+      <find>庞涛</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/model/Info.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/utils/XmlMerge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/model/material2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/model/material3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/model/materialinfo6.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/model/materialinfo3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/model/materialinfo4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/model/materialinfo5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/controller/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/model/materialinfo2.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/target/classes/root.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/flow1.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/utils/xmlWrite2FileUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/utils/createXmlUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/model/business.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/model/applicationinfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/controller/BeanToXml.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/root.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/model/forminfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/utils/asXml.java" />
+        <option value="$PROJECT_DIR$/target/classes/success.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/controller/createXmlController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/utils/DataMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/DemoApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/model/materialinfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/model/forminfo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/model/nodeinfo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/model/nodeinfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/utils/certificateXmlUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/model/materialinfo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/model/bjnodeinfo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/model/bjnodeinfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/utils/PdfBase64Util.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/utils/fileStreamXmlUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/model/certificateinfo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/model/filestreaminfo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/model/certificateinfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/utils/string2XmlUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/utils/PictureBase64Util.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/utils/BusinessXmlUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/utils/applicationinfoXmlUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/utils/materialXmlUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/utils/nodeXmlUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/utils/nodeXmlUtil2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/utils/nodeXmlUtil1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/utils/formXmlUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/controller/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/utils/bjnodeXmlUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/taiji/utils/XmlMergeUtil.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="connect" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="connect" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="173" />
+    <option name="y" value="51" />
+    <option name="width" value="1140" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="connect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="connect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="connect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="connect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="connect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="connect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="connect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="connect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="connect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="connect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="taiji" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="connect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="connect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="taiji" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="connect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="connect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="taiji" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="connect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="connect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="taiji" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="connect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="connect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="connect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="connect" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="connect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="connect" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../practise" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.taiji.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaweb\connect\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MainClass">
+    <configuration name="Application" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.taiji.DemoApplication" />
+      <module name="connect" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeanToXml" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.taiji.controller.BeanToXml" />
+      <module name="connect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.taiji.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.taiji.controller.Demo" />
+      <module name="connect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.taiji.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.taiji.controller.MainClass" />
+      <module name="connect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.taiji.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="materialXmlUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.taiji.utils.materialXmlUtil" />
+      <module name="connect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.taiji.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.materialXmlUtil" />
+        <item itemvalue="Application.BeanToXml" />
+        <item itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="970ec5c8-528c-4ea9-a726-3790ccb3aa60" name="Default Changelist" comment="" />
+      <created>1568701822604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568701822604</updated>
+      <workItem from="1568701827777" duration="17025000" />
+      <workItem from="1568768299752" duration="26167000" />
+      <workItem from="1568815912637" duration="3818000" />
+      <workItem from="1568855134493" duration="36742000" />
+      <workItem from="1568940940550" duration="10920000" />
+      <workItem from="1568959489691" duration="17898000" />
+      <workItem from="1569200031572" duration="26686000" />
+      <workItem from="1569286877094" duration="26950000" />
+      <workItem from="1569373542477" duration="21334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="187540000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49436393" visible="true" weight="0.25869894" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.5056361" side_tool="true" weight="0.36081696" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.25925925" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.048387095" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.070853464" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290461" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.3290461" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.54448014" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3935484" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3290461" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.1298467" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32909605" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/model/forminfo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-550">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/utils/xmlWrite2FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/flow5.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/flow2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/model/materialinfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/bjsuccess1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="3" column="11" selection-start-line="2" selection-start-column="1" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/root1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/root.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/utils/string2XmlUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/root.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/controller/BeanToXml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/model/bjnodeinfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/model/certificateinfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/model/filestreaminfo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/model/materialinfo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/utils/PictureBase64Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/utils/PdfBase64Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/utils/XmlUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#414#430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/model/certificateinfo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/flow1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/utils/materialXmlUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="22" column="62" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/utils/applicationinfoXmlUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="85" column="66" selection-start-line="85" selection-start-column="66" selection-end-line="85" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/utils/asXml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/utils/fileStreamXmlUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/flow3.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/utils/BusinessXmlUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="111" column="50" selection-start-line="111" selection-start-column="50" selection-end-line="111" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/utils/formXmlUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="54" column="72" selection-start-line="54" selection-start-column="72" selection-end-line="54" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/flow1_.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/flow2_.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/flow4.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/flow3_.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/flow5_.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/banjie1.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/banjie2.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/utils/nodeXmlUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/bjnode_.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/utils/bjnodeXmlUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="50" column="63" selection-start-line="50" selection-start-column="63" selection-end-line="50" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/slsuccess.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-484">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/sqsuccess.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="66" column="17" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/utils/nodeXmlUtil2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="61" column="44" selection-start-line="61" selection-start-column="44" selection-end-line="61" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/banjiemerge.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/node_.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/utils/nodeXmlUtil1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/model/bjnodeinfo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/bj-node.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/utils/certificateXmlUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/controller/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="261" column="25" selection-start-line="261" selection-start-column="25" selection-end-line="261" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/bj0merge.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/bjsuccess.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="75" column="14" lean-forward="true" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/taiji/utils/XmlMergeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-98">
+          <caret line="91" column="13" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>connect</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

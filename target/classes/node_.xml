@@ -1,0 +1,16 @@
+
+<node>
+  <nodecode>SL</nodecode>
+  <nodename>受理</nodename>
+  <version>1</version>
+  <sn>1</sn>
+  <operator>天津市公安交管局 驻政务办 庞涛</operator>
+  <operatorduty>0001</operatorduty>
+  <deptcode>K00256941</deptcode>
+  <handletime>2019-09-02 10:48:56</handletime>
+  <handlestate>1</handlestate>
+  <prenodecode>SL</prenodecode>
+  <nextnodecode>BJ</nextnodecode>
+  <handleadvice>同意</handleadvice>
+  <completeresultscode></completeresultscode>
+</node>
